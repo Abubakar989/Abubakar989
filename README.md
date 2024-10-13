@@ -1,8 +1,4 @@
-## Hi there 👋
 
-**Abubakar989/Abubakar989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi there 👋
 
 I am Abubakar Sadiq, a Full Stack Software Engineer from 🇮🇳 passionate about developing production-ready applications with 4+ years of professional experience. 🎯

@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I am Abubakar Sadiq, a Full Stack Software Engineer from 🇮🇳 passionate about developing production-ready applications with 4+ years of professional experience. 🎯
+I am Abubakar Sadiq, a Software Engineer passionate about developing production-ready applications with 4+ years of professional experience. 🎯
 
 I mostly work with Python, MVC Frameworks, Node.js, and Cloud-based technologies. 🚀
 

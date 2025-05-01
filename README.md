@@ -3,7 +3,7 @@
 
 I am Abubakar Sadiq, a Software Engineer passionate about developing production-ready applications with 4+ years of professional experience. 🎯
 
-I mostly work with Python, MVC Frameworks, Node.js, and Cloud-based technologies. 🚀
+I mostly work with Python, Django , MVC Frameworks, Node.js, and Cloud-based technologies. 🚀
 
 ## 🚀 Technologies I work with:
 
